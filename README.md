@@ -2,7 +2,7 @@ I build AI automation for document workflows: RAG systems, transcript and captio
 
 ## Projects
 
-- [Anchor-Align](https://github.com/PatricR73/Anchor-Align) — recovers caption timing from human-edited transcripts; benchmarked against a synthetic corruption corpus with published methodology and caveats.
+- [Anchor-Align](https://github.com/PatricR73/Anchor-Align)  recovers caption timing from human-edited transcripts; benchmarked against a synthetic corruption corpus with published methodology and caveats.
 - [vendor-security-questionnaire-rag](https://github.com/PatricR73/vendor-security-questionnaire-rag) drafts answers to vendor security questionnaires from a company's own policy docs, citing every answer and abstaining rather than fabricating; measured 65% usable on a 20-question CAIQ set with zero confidently-wrong answers.
 - [eu-ai-newsletter](https://github.com/PatricR73/eu-ai-newsletter)  weekly EU AI Act newsletter pipeline; n8n plus a FastAPI sidecar.
 
