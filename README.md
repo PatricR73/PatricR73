@@ -12,4 +12,4 @@ I benchmark before claiming, publish the caveats, and ship features disabled whe
 
 ## Contact
 
-EMAIL · LINKEDIN
+[eriksonsssndn@gmail.com](mailto:eriksonsssndn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patric-rg-b395a9408/)
