@@ -8,7 +8,7 @@ So the tools I build abstain, and I measure whether they actually do.
 
 ## Work
 
-**[vendor-security-questionnaire-rag](https://github.com/PatricR73/vendor-security-questionnaire-rag)**
+**[Questionnaire-Responder](https://github.com/PatricR73/Questionnaire-Responder)**
 
 Drafts answers to vendor security questionnaires from a company's own policy documents. On 20 CAIQ v4.0.2 questions: 13 usable as drafted, 7 that correctly refused to answer, 0 fabricated.
 
