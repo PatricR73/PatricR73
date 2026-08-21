@@ -10,9 +10,9 @@ So the tools I build abstain, and I measure whether they actually do.
 
 **[Questionnaire-Responder](https://github.com/PatricR73/Questionnaire-Responder)**
 
-Drafts answers to vendor security questionnaires from a company's own policy documents. On 20 CAIQ v4.0.2 questions: 13 usable as drafted, 7 that correctly refused to answer, 0 fabricated.
+Drafts answers to vendor security questionnaires from a company's own policy documents, citing every answer. On 24 CAIQ v4.0.2 questions, measured on the DeepSeek baseline (three runs, 2026-08-21): 10-13 of 24 structural match (mean 11.3), zero confirmed fabrications.
 
-Those 7 refusals score as *wrong* against my own rubric. I left the rubric alone, because adjusting the scoring after seeing the results is how numbers like these stop meaning anything.
+The abstentions on answerable rows score as *wrong* against my own rubric. I left the rubric alone, because adjusting the scoring after seeing the results is how numbers like these stop meaning anything.
 
 **[Anchor-Align](https://github.com/PatricR73/Anchor-Align)**
 
